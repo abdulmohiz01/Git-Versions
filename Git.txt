@@ -1,0 +1,8 @@
+git init
+git status
+git add <filename>  ...........if 2 files then .
+git commit -m "Message"
+git diff <filename>
+git remote add <website link>
+git push -M main
+git push -u origin main
